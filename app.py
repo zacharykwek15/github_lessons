@@ -1,2 +1,3 @@
 import utils
-utils.greetung("ZH")
+utils.greeting("ZH")
+utils.goodbye()
